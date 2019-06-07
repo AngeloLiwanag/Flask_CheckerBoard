@@ -1,0 +1,13 @@
+td{
+    height:100px;
+    width:100px;
+    display:inline-block;
+}
+
+.box_1{
+    background-color:red;
+}
+
+.box_2{
+    background-color:black;
+}
